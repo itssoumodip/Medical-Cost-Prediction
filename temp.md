@@ -7,4 +7,4 @@ creating virtual environment
 venv\Scripts\activate
 
 # Deactivate virtual environment (when needed)
-deactivate
+deactivate 
